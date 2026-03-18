@@ -1,0 +1,8 @@
+1. Jaka jest podstawowa funkcja wątku EDT w aplikacjach Swing?
+  modyfikacja GUI
+2. Dlaczego próba bezpośredniego wykonania zapytania SQL w metodzie actionPerformed przycisku jest zła?
+  aplikacja się zawiesi
+3. Która metoda klasy SwingWorker jest bezpieczna do aktualizacji komponentów GUI (np. JLabel) po zakończeniu długiej operacji?
+  done()
+4. W którym wątku (EDT czy roboczym) jest wykonywana metoda doInBackground()?
+  roboczym
